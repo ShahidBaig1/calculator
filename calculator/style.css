@@ -1,0 +1,36 @@
+.container {
+  height: 200px;
+  width: 350px;
+  background-color: gray;
+  border-radius: 5px;
+  margin: auto;
+  align-items: center;
+  padding: 15px;
+}
+.container input {
+  padding: 5px;
+  height: 30px;
+  width: 160px;
+  margin: 5px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+#one {
+  margin-left: 20px;
+}
+#btn1 {
+  padding: 10px;
+  margin: auto;
+  width: 80px;
+  margin: 20px;
+  margin-left: 130px;
+  color: black;
+}
+.output {
+  height: 200px;
+  width: 300px;
+  margin-left: 200px;
+  margin: auto;
+  padding: 15px;
+}
