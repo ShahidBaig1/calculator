@@ -1,5 +1,5 @@
 .container {
-  height: 200px;
+  height: 300px;
   width: 350px;
   background-color: gray;
   border-radius: 5px;
@@ -19,18 +19,31 @@
 #one {
   margin-left: 20px;
 }
-#btn1 {
-  padding: 10px;
-  margin: auto;
-  width: 80px;
-  margin: 20px;
-  margin-left: 130px;
-  color: black;
-}
+
 .output {
-  height: 200px;
-  width: 300px;
-  margin-left: 200px;
+  height: 100px;
+  width: 200px;
+  background-color: black;
   margin: auto;
-  padding: 15px;
+  align-items: center;
+  margin-top: 20px;
+  text-align: center;
+  border-radius: 10px;
+  color: white;
+  font-size: 50px;
+  padding-top: 40px;
+}
+#operators {
+  padding: 13px;
+  width: 103px;
+  font-size: 20px;
+  margin-left: 138px;
+}
+#btn1 {
+  padding: 20px;
+  margin: 20px;
+  margin-left: 138px;
+  width: 100px;
+  border-radius: 10px;
+  border: none;
 }
